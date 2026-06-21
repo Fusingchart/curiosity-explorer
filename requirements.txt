@@ -1,0 +1,13 @@
+torch>=2.2.0
+torchvision>=0.17.0
+stable-baselines3>=2.3.0
+minigrid>=2.3.1
+procgen>=0.10.7
+wandb>=0.16.0
+imageio>=2.34.0
+imageio-ffmpeg>=0.4.9
+gymnasium>=0.29.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+opencv-python>=4.9.0
+tqdm>=4.66.0
